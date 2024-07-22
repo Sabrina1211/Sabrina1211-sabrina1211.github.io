@@ -30,7 +30,7 @@ $(document).ready(function()
     });
 
     var typed = new Typed(".typed", {
-        strings: [ "Front End Developer.","Dominican In Tech.","Student."],
+        strings: [ "Web Developer.","Dominican In Tech.","Hack.Diversity Fellow."],
         typeSpeed: 70,
         loop:true,
         startDelay: 1000,
